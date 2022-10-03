@@ -1,0 +1,2 @@
+# PictureUploadFolder
+for picgo
